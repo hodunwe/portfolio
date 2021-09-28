@@ -2,19 +2,11 @@
 ---
 
 @import "{{ site.theme }}";
-header ul {
+header h1 {
     margin: 0;
     padding: 0;
-    list-style: none;
-    position: absolute;
-    z-index: 1;
-    right: 20px;
-    top: 20px;
-    height: 38px;
-    padding: 1px 0;
-    background: #9c6644;
-    background: linear-gradient(#b08968, #9c6644);
-    border-radius: 5px;
-    box-shadow: inset rgb(255 255 255 / 45%) 0 1px 0, inset rgb(0 0 0 / 20%) 0 -1px 0;
-    width: auto;
+    font-size: 24px;
+    line-height: 1.2;
+    color: #069;
+    text-shadow:rgb(230, 204, 178) / 90%) 0 1px 0;
 }
