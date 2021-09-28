@@ -2,3 +2,19 @@
 ---
 
 @import "{{ site.theme }}";
+header ul {
+    margin: 0;
+    padding: 0;
+    list-style: none;
+    position: absolute;
+    z-index: 1;
+    right: 20px;
+    top: 20px;
+    height: 38px;
+    padding: 1px 0;
+    background: #b08968;
+    background: linear-gradient(#b08968, #b08968);
+    border-radius: 5px;
+    box-shadow: inset rgb(255 255 255 / 45%) 0 1px 0, inset rgb(0 0 0 / 20%) 0 -1px 0;
+    width: auto;
+}
