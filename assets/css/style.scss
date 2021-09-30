@@ -18,7 +18,7 @@ width: 740px;
 margin: 0 auto;
 background: #ffe8d6;
 border-radius: 8px;
-box-shadow: rgba(162, 236, 191, 1) 0 0 0 1px,rgba(162, 236, 227, 1) 0 3px 10px;
+box-shadow: rgba(233, 165, 149, 0.62) 0 0 0 1px, rgba(233, 181, 149, 0.62) 0 3px 10px;
 }
 
 header {
@@ -30,7 +30,7 @@ padding: 15px 20px;
 border-bottom: 1px solid #FBF8F3;
 }
 
-header h1 {
+h1 {
 margin: 0;
 padding: 0;
 font-size: 24px;
@@ -38,3 +38,20 @@ line-height: 1.2;
 color: #fbf8f3;
 text-shadow: rgba(252, 243, 243, 1) 0 1px 0;
 }
+
+ul {
+margin: 0;
+padding: 0;
+list-style: none;
+position: absolute;
+z-index: 1;
+right: 20px;
+top: 20px;
+height: 38px;
+padding: 1px 0;
+background: #5198DF;
+background: linear-gradient(#77B9FB, #3782CD);
+border-radius: 5px;
+box-shadow: inset rgba(255,255,255,0.45) 0 1px 0,inset rgba(0,0,0,0.2) 0 -1px 0;
+width: auto;
+  
