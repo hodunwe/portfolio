@@ -2,12 +2,9 @@
 
 Welcome to portfolio page?
 
-### Markdown
+### The title of this page should have chnaged by now.
 
-Markdown is a lightweight and easy-to-use syntax for styling yourvwriting. It includes conventions for
-
-```markdown
-Syntax highlighted code block
+Below are some of my artworks you can also view on??
 
 # Header 1
 ## Header 2
@@ -30,6 +27,7 @@ For more details see [GitHub Flavored Markdown](https://guides.github.com/featur
 
 Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/jxcce3/portfolio/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
 
-### Support or Contact
+### Contact Me
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+For emails, you can reach me at redbean4@naver.com.
+This address doesn't exist (yet).
