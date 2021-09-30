@@ -38,20 +38,3 @@ line-height: 1.2;
 color: #fbf8f3;
 text-shadow: rgba(252, 243, 243, 1) 0 1px 0;
 }
-
-ul {
-margin: 0;
-padding: 0;
-list-style: none;
-position: absolute;
-z-index: 1;
-right: 20px;
-top: 20px;
-height: 38px;
-padding: 1px 0;
-background: #5198DF;
-background: linear-gradient(#f4f1de, #d4a373);
-border-radius: 5px;
-box-shadow: inset rgba(255,255,255,0.45) 0 1px 0,inset rgba(0,0,0,0.2) 0 -1px 0;
-width: auto;
-}
