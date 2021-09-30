@@ -1,13 +1,13 @@
-## Testing the editor. 
+## Welcome to portfolio page.
 
 Welcome to portfolio page?
 
-### The title of this page should have chnaged by now.
+### The title of this page should have changed by now.
 
-Below are some of my artworks you can also view on??
+Below are some of my artworks you can also view on instagram. 
 
-# Header 1
-## Header 2
+# Toge
+## Second picture
 ### Header 3
 
 - Bulleted
