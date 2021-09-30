@@ -1,10 +1,10 @@
-## Welcome to portfolio page.
+## Welcome to Jimin's portfolio.
 
 Welcome to portfolio page?
 
 ### The title of this page should have changed by now.
 
-Below are some of my artworks you can also view on instagram. 
+Below are some of my works which are also available for viewing on my [instagram](https://www.instagram.com/tteoksoonie/).
 
 # Toge
 ## Second picture
