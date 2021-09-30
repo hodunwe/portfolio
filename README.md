@@ -18,7 +18,7 @@ Below are some of my artworks you can also view on instagram.
 
 **Bold** and _Italic_ and `Code` text
 
-[Link](url) and 
+[Link](https://i.pinimg.com/474x/ff/5c/d5/ff5cd590b70f429a02d14d8780d10af7.jpg) and 
 ![Image](https://i.pinimg.com/474x/ff/5c/d5/ff5cd590b70f429a02d14d8780d10af7.jpg)
 ```
 
