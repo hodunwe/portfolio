@@ -23,7 +23,7 @@ Below are some of my artworks you can also view on instagram.
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
-### Jekyll Themes
+### Traditional Works
 
 ### Contact Me
 
