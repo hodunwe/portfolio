@@ -18,14 +18,12 @@ Below are some of my artworks you can also view on??
 
 **Bold** and _Italic_ and `Code` text
 
-[Link](url) and ![Image](src)
+[Link](url) and ![Image](https://i.pinimg.com/474x/ff/5c/d5/ff5cd590b70f429a02d14d8780d10af7.jpg" alt="kimchi slap")
 ```
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
 ### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/jxcce3/portfolio/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
 
 ### Contact Me
 
