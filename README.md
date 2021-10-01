@@ -41,7 +41,6 @@ You can find most pictures posted on my [instagram](https://www.instagram.com/tt
 ## Traditional Works
 
 ## Modeling
-![20200926_001915](https://user-images.githubusercontent.com/72880905/135549222-3a2c43ce-934f-46dc-ab3d-0c94049660b2.jpg)
 <img width="623" alt="confidence pie" src="https://user-images.githubusercontent.com/72880905/135549225-d4047111-8e74-46aa-8422-7a61b7c47789.png">
 
 ### Contact Me
