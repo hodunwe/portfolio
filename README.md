@@ -10,23 +10,17 @@ Below are some of my works which are also available for viewing on my [instagram
 
 _Do not respost any work(s) represented below._
 
-## Second picture
-### Header 3
+## Digital Work
 
-- Bulleted
-- List
+![toge](https://i.pinimg.com/474x/ff/5c/d5/ff5cd590b70f429a02d14d8780d10af7.jpg)
+<div align="center">This is fanart of Inumaki Toge, a character from the popular Japanese manga series [Jujutsu Kaisen](https://myanimelist.net/anime/40748/Jujutsu_Kaisen_TV).</div>
+''
 
-1. Numbered
-2. List
+![pink dude]()
 
-**Bold** and _Italic_ and `Code` text
+## Traditional Work
 
-[Haha](https://i.pinimg.com/474x/ff/5c/d5/ff5cd590b70f429a02d14d8780d10af7.jpg) and 
-![kimchi slap](https://i.pinimg.com/474x/ff/5c/d5/ff5cd590b70f429a02d14d8780d10af7.jpg)
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Traditional Works
+## Models
 
 ### Contact Me
 
