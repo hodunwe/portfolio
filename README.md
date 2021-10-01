@@ -46,9 +46,9 @@ You can find most pictures posted on my [instagram](https://www.instagram.com/tt
 
 ## Modeling
 
-<img width="650" alt="watermelon spa" src="https://user-images.githubusercontent.com/72880905/135549222-3a2c43ce-934f-46dc-ab3d-0c94049660b2.jpg">
+<img width="600" alt="watermelon spa" src="https://user-images.githubusercontent.com/72880905/135549222-3a2c43ce-934f-46dc-ab3d-0c94049660b2.jpg">
 
-<img width="650" alt="confidence pie" src="https://user-images.githubusercontent.com/72880905/135549225-d4047111-8e74-46aa-8422-7a61b7c47789.png">
+<img width="600" alt="confidence pie" src="https://user-images.githubusercontent.com/72880905/135549225-d4047111-8e74-46aa-8422-7a61b7c47789.png">
 <br>
 <div align="center">Confidence pie for my friend who was feeling rather insecure.</div>
 <br>
