@@ -51,14 +51,12 @@ _Do not respost any work(s) represented below._
 
 You can find most pictures posted on my [instagram](https://www.instagram.com/tteoksoonie/).
 
-## Traditional Works
 
-## Modeling
+## Traditional
 
-<img width="600" alt="watermelon spa" src="https://user-images.githubusercontent.com/72880905/135549222-3a2c43ce-934f-46dc-ab3d-0c94049660b2.jpg">
+<img width="600" align="center" alt="watermelon spa" src="https://user-images.githubusercontent.com/72880905/135549222-3a2c43ce-934f-46dc-ab3d-0c94049660b2.jpg">
 <br>
 <div align="center">Banana gentleman chilling in a watermelon hot tub.</div>
-<br>
 <br>
 
 <img width="600" alt="confidence pie" src="https://user-images.githubusercontent.com/72880905/135549225-d4047111-8e74-46aa-8422-7a61b7c47789.png">
