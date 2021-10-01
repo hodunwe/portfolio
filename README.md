@@ -1,4 +1,4 @@
-# Welcome to Jimin's art portfolio ﾉ◕ヮ◕)ﾉ*:･ﾟ✧
+## Welcome to Jimin's art portfolio ﾉ◕ヮ◕)ﾉ*:･ﾟ✧
 
 Welcome to portfolio page?
 This page features a few of my digital and traditional artworks. For digital creations, I work mainly with the Procreate app on iPad (with Apple Pencil) or my old Wacom Intuous Comic (2015) using Clip Studio Paint Pro. Traditional works usually encompass standard graphite pencils. I am rather new to the practice, but occasionally my work will involve acrylic and watercolor paints. 
