@@ -27,7 +27,11 @@ _Do not respost any work(s) represented below._
 
 <br>
 ![IMG_0731](https://user-images.githubusercontent.com/72880905/135548646-ea98af21-ab12-4eec-888b-7856419ea30f.PNG)
+<div align="center">A girl wearing a windbreaker in the clouds.</div>
+
 ![IMG_0730](https://user-images.githubusercontent.com/72880905/135548656-dc1defc4-b4bd-49c8-bc4a-57e159cdf9dc.PNG)
+<div align="center">Fanart of Dmitri Alexandre Blaiddyd has an obnoxiously long name that I can't pronounce (but is admittedly, very cool) and is one of three main protagonists in the game Fire Emblem: Three Houses. Go Blue Lions!</div>
+
 ![IMG_1004](https://user-images.githubusercontent.com/72880905/135548670-3af13365-01ed-447f-a3bf-fa2d2e9c2b4a.PNG)
 ![IMG_1105](https://user-images.githubusercontent.com/72880905/135548683-ef03ffb1-a47a-4f3d-a41d-967dc121e73d.jpg)
 ![IMG_1016](https://user-images.githubusercontent.com/72880905/135548676-874f8569-892b-447d-a98f-dde0a8ae5632.PNG)
