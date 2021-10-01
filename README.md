@@ -1,6 +1,6 @@
 <br>
 
-## Welcome to Jimin's art portfolio ﾉ◕ヮ◕)ﾉ*:･ﾟ✧ ( ͡° ͜ʖ ͡°)
+## Welcome to Jimin's art portfolio ﾉ◕ヮ◕)ﾉ*:･ﾟ✧
 
 Welcome to portfolio page?
 <br>
