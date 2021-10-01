@@ -25,7 +25,9 @@ _Do not respost any work(s) represented below._
 
 <div align="center">Unfinished sketch. Most of my drawings are the same: unfinished sketches.</div>
 
-You can find most pictures posted on my artstagram, [instagram](https://www.instagram.com/tteoksoonie/).
+<br>
+
+You can find most pictures posted on my [instagram](https://www.instagram.com/tteoksoonie/).
 
 ## Traditional Works
 
